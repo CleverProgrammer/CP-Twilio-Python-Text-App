@@ -32,4 +32,4 @@ python Desktop/CP-Twilio-Python-Text-App/send_sms.py
 ```
 
 ### Congratulations!
-- [X] You are done.
+- [X] You just sent your first text through your Python Text App that uses the Twilio API.
