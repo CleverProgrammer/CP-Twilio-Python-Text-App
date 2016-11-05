@@ -15,6 +15,7 @@ With the free account, you only get to text verified numbers.
 - [ ] Get Auth Token
 
 5. Get Phone Numbers
+
 - [ ] [Your Twilio Number is Here](https://www.twilio.com/console/phone-numbers/incoming)
 - [ ] [Verified Cell Phone Number You Want To Text](https://www.twilio.com/console/phone-numbers/verified)
 
