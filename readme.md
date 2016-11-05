@@ -1,7 +1,7 @@
 # Python Text App Using Twilio API
 ------
 
-With the free account, you only get to text verified numbers.
+***With a free Twilio account, you only get to text verified numbers.***
 
 #### 1. Create a Github account.
 #### 2. Star this at the top right!
