@@ -21,7 +21,9 @@
 
 #### 8. Clone this repository on your desktop.
 
-#### 9. Open `send_sms.py` in **IDLE** and Run it!
+#### 9. Open your terminal and `pip install twilio`.
+
+#### 10. Open `send_sms.py` in **IDLE** and Run it!
 
 #### Or if you want to be cool on your mac...
 
