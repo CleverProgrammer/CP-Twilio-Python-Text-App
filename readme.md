@@ -9,6 +9,7 @@ With the free account, you only get to text verified numbers.
 4. Verify a Phone Number on Twilio https://www.twilio.com/console/phone-numbers/verified. That you would like to text.
 
 4. Get Twilio Credentials
+
 - [ ] https://www.twilio.com/console 
 - [ ] Get Account SID
 - [ ] Get Auth Token
